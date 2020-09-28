@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
+///
 public class MainActivity extends AppCompatActivity {
     private ImageView btnChoi;
     private ImageView imageViewBaiNguoiChoi1,imageViewBaiNguoiChoi2,imageViewBaiNguoiChoi3;
