@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuTinhDiem"
+        android:title="Tính điểm" />
+    <item
+        android:id="@+id/menuNguoiVoiMay"
+        android:title="Người với máy" />
+    <item
+        android:id="@+id/menuMayVoiMay"
+        android:title="Máy vói máy" />
+    <item
+        android:id="@+id/menuThoat"
+        android:title="Thoát" />
+</menu>

@@ -5,6 +5,7 @@ public class Bai {
     private String tenBai;
     private int hinh;
     private int diem;
+    private int thuTuBai;
 
     public Bai(int id, String tenBai, int hinh, int diem) {
         this.id = id;
@@ -16,6 +17,14 @@ public class Bai {
     public Bai(int id, int diem) {
         this.id = id;
         this.diem = diem;
+    }
+
+    public int getThuTuBai() {
+        return thuTuBai;
+    }
+
+    public void setThuTuBai(int thuTuBai) {
+        this.thuTuBai = thuTuBai;
     }
 
     public int getId() {
